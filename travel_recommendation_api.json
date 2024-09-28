@@ -30,7 +30,7 @@
         },
         {
           "name": "Kyoto, Japan",
-          "imageUrl": "./img/kyoto.jpeg",
+          "imageUrl": "./img/Kyoto.jpeg",
           "description": "Known for its historic temples, gardens, and traditional tea houses.",
           "timeZone": "Asia/Tokyo"
         }
